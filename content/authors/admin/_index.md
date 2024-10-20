@@ -11,7 +11,7 @@ last_name: leader
 
 # Status emoji
 status:
-  icon: ☕️🎺
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,7 +48,7 @@ profiles:
     label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Author's website URL
 website: ""
