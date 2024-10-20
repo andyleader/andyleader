@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 茅天华
+title: Andyleader
 
 # Name pronunciation (optional)
-name_pronunciation: Tian Hua Mao
+name_pronunciation: 茅天华
 
 # Full name (for SEO)
-first_name: Mao
-last_name: Tian Hua
+first_name: Andy
+last_name: leader
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️🎺
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Master student, School of Artificial Intelligence and Computer Science, Jiangnan University
+role: School of Artificial Intelligence and Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated from computer technology major, independent problem-solving ability; Quick response, willing to work in a team, with strong communication skills; Strong sense of responsibility, pursue excellence in work, pay attention to details, and constantly improve myself. Proficient in machine learning, deep learning and other related technologies.
