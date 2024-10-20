@@ -45,7 +45,7 @@ profiles:
 highlight_name: false
 
 # Author's website URL
-website: ""
+website: "https://github.com/andyleader"
 ---
 
-I graduated from computer technology major, independent problem-solving ability; Quick response, willing to work in a team, with strong communication skills; Strong sense of responsibility, pursue excellence in work, pay attention to details, and constantly improve myself. Proficient in machine learning, deep learning and other related technologies.
+I graduated from the School of Artificial Intelligence and Computer Science of Jiangnan University and my major is computer technology. I have independent problem-solving skills, a quick response, and a willingness to work in teams with strong communication abilities. I have a strong sense of responsibility, pursue excellence, pay attention to details, and constantly improve myself. Proficient in machine learning and deep learning technologies. Looking forward to contributing to a dynamic team.
