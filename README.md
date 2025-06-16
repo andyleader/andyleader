@@ -43,8 +43,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 
-
-
 <!--
 **andyleader/andyleader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
