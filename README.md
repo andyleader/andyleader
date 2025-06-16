@@ -20,13 +20,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="300" height="220" />
 
-- 😄 My Pronouns: She/Her   
+- 😄 My school: Jiangnan Unversity school   
 
 - 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- 📫 How to email me: [@andyleader](https://mao19980704@163.com)
 
 <!-- About section: END -->
 
