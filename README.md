@@ -26,11 +26,13 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 📫 How to email me: [@andyleader](https://mao19980704@163.com)
 
+- 
+
 <!-- About section: END -->
 
 <!-- GitHub section -->
 
-##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 40px> 
  
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyleader)
 
