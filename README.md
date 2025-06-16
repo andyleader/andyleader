@@ -26,8 +26,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 📫 How to email me: [@andyleader](https://mao19980704@163.com)
 
-- 
-
 <!-- About section: END -->
 
 <!-- GitHub section -->
