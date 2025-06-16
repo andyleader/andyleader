@@ -18,7 +18,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="300" height="180" />
+<img align="right" alt="GIF" src="./code.gif" width="220" height="150" />
 
 - 😄 My school: Jiangnan Unversity school   
 
