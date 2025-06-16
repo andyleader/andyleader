@@ -21,7 +21,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="400" height="270" />
+<img align="right" alt="GIF" src="./code.gif" width="400" height="220" />
 
 - 😄 My Pronouns: She/Her   
 
