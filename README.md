@@ -36,7 +36,7 @@ Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测
 
 - 😄 我的学校: 江南大学 ( Jiangnan Unversity school ) 
 
-- 📫 与我联系: To[@Andy大大](mailto:mao19980704@163.com)
+- 📫 与我联系: Mailto[@Andy大大](mailto:mao19980704@163.com)
 
 <!-- About section: END -->
 
