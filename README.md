@@ -12,10 +12,8 @@
  <!-- About section -->
 
 ---
-✨ I'm a frontend engineer and a developer advocate at Cloudflare passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
-
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
-
+✨ 个人简介
+2025 届江南大学计算机技术硕士，现投身 AI 算法开发领域的职场新人。GitHub 是我的技术笔记仓库，心理学是洞察世界的窗口，悬疑电影是灵感充电站，而代码则是连接兴趣与职业的桥梁。
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="220" height="150" />
