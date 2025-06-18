@@ -1,6 +1,6 @@
 ---
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Andyleader</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 你好! 我是Andy大大</h3>
 
 <!-- Profile Views -->
 
@@ -14,7 +14,13 @@
 ---
 ✨ 个人简介
 
-2025 届江南大学计算机技术硕士，现投身 AI 算法开发领域的职场新人。GitHub 是我的技术笔记仓库，心理学是洞察世界的窗口，悬疑电影是灵感充电站，而代码则是连接兴趣与职业的桥梁。
+我是 2025 届江南大学计算机技术硕士，现投身 AI 算法开发领域的职场新人。GitHub 是我的技术笔记仓库，心理学是洞察世界的窗口，悬疑电影是灵感充电站，而代码则是连接兴趣与职业的桥梁。
+
+📚 学习与技术栈
+学术背景：硕士期间主攻计算机视觉与机器学习，研究方向涉及目标检测优化（YOLO 系列改进）、轻量化模型部署。曾在实验室参与建筑巡检平台项目，负责后端逻辑开发与目标检测模块。
+技术擅长：
+Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测核心算法；
+实战经验：基于 YOLOv8 完成无人机建筑物信息汇总系统，通过模型量化将推理速度提升 30% 。
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="220" height="150" />
