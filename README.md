@@ -27,14 +27,11 @@
 
 当前方向：从事 AI 算法开发，聚焦工业场景的实时检测系统，正在学习 TensorRT 部署与边缘设备优化。<br>
 开源协作计划：在学习过程中，会将有价值和有意义的issue及时分享在仓库中~<br>
-求指导的问题：<br>
-作为新人，在模型调参时遇到小目标检测精度不足的问题（IoU 阈值调整与 Focal Loss 的搭配策略），欢迎大佬在此 Issue分享经验！
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="220" height="150" />
 
-- 😄 我的学校: 江南大学 ( Jiangnan Unversity school ) 
-
+- 😄 我的学校: 江南大学 ( Jiangnan Unversity school )   
 - 📫 与我联系: mail to[@Andy大大](mailto:mao19980704@163.com)
 
 <!-- About section: END -->
