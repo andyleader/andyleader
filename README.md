@@ -14,20 +14,27 @@
 ---
 ✨ 个人简介
 
-我是 2025 届江南大学计算机技术硕士，现投身 AI 算法开发领域的职场新人。GitHub 是我的技术笔记仓库，心理学是洞察世界的窗口，悬疑电影是灵感充电站，而代码则是连接兴趣与职业的桥梁。
+我是一名来自江南大学的计算机硕士，现投身 AI 算法开发领域的职场新人。GitHub 是我的技术笔记仓库，心理学是洞察世界的窗口，悬疑电影是灵感充电站，而代码则是连接兴趣与职业的桥梁。
 
 📚 学习与技术栈
 
 学术背景：硕士期间主攻计算机视觉与机器学习
 
-一种基于高光谱与LiDAR的融合分类方法研究  
+发表一篇基于高光谱与LiDAR的融合分类方法研究.<br> 
 "A Self-Distillation-Based Multimodal Feature Alignment Network for Hyperspectral Image and LiDAR Classification", in IEEE Geoscience and Remote Sensing Letters.[details](https://github.com/andyleader/DFANet)
 
 研究方向涉及目标检测优化（YOLO 系列改进）、轻量化模型部署。曾在实验室参与建筑巡检平台项目，负责后端逻辑开发与目标检测模块。
 
 技术擅长：
-Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测核心算法；
+Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测核心算法；<br>
 实战经验：基于 YOLOv8 完成无人机建筑物信息汇总系统，通过模型量化将推理速度提升 30% 。
+
+💼 职场新人的成长日志
+
+当前方向：从事 AI 算法开发，聚焦工业场景的实时检测系统，正在学习 TensorRT 部署与边缘设备优化。<br>
+开源协作计划：在学习过程中，会将有价值和有意义的issue及时分享在仓库中~<br>
+求指导的问题：<br>
+作为新人，在模型调参时遇到小目标检测精度不足的问题（IoU 阈值调整与 Focal Loss 的搭配策略），欢迎大佬在此 Issue分享经验！
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="220" height="150" />
