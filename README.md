@@ -23,13 +23,15 @@
 技术擅长：Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测核心算法；<br>
 实战经验：基于 YOLOv8 完成无人机建筑物信息汇总系统，通过模型量化将推理速度提升 30% 。
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="250" height="180" />
+
 💼 职场新人的成长日志
 
 当前方向：从事 AI 算法开发，聚焦工业场景的实时检测系统，正在学习 TensorRT 部署与边缘设备优化。<br>
 开源协作计划：在学习过程中，会将有价值和有意义的issue及时分享在仓库中~<br>
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="220" height="150" />
+
 
 - 😄 我的学校: 江南大学 ( Jiangnan Unversity school )   
 - 📫 与我联系: mail to[@Andy大大](mailto:mao19980704@163.com)
