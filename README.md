@@ -33,8 +33,8 @@
 
 
 
-- 😄 我的学校: 江南大学 ( Jiangnan Unversity school )   
-- 📫 与我联系: mail to[@Andy大大](mailto:mao19980704@163.com)
+- 😄 我的学校: 江南大学/Jiangnan Unversity  
+- 📫 与我联系: Mail to[@Andy大大](mailto:mao19980704@163.com)
 
 <!-- About section: END -->
 
