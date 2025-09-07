@@ -1,6 +1,6 @@
 ---
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 你好! 我是Andy大大</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! Here comes Andy大大~ Your humble servant is lined up to welcome you! 😎</h3>
 
 <!-- Profile Views -->
 
@@ -9,31 +9,28 @@
 ---
 ✨ 个人简介
 
-我是一名来自江南大学的计算机硕士，现投身 AI 算法开发领域的职场新人。GitHub 是我的技术笔记仓库，心理学是洞察世界的窗口，悬疑电影是灵感充电站，而代码则是连接兴趣与职业的桥梁。
+- 🏫江南大学-计算机技术<br>
+- 🌟MBTI-INFJ<br>
+- 💼在BYD撸代码
 
 📚 学习与技术栈
 
-学术背景：硕士期间主攻计算机视觉与机器学习
+学术背景：硕士期间主攻计算机视觉与机器学习（略懂）
 
 发表一篇基于高光谱与LiDAR的融合分类方法研究.<br> 
 "A Self-Distillation-Based Multimodal Feature Alignment Network for Hyperspectral Image and LiDAR Classification", in IEEE Geoscience and Remote Sensing Letters.[details](https://github.com/andyleader/DFANet)
 
-研究方向涉及目标检测优化（YOLO 系列改进）、轻量化模型部署。曾在实验室参与建筑巡检平台项目，负责后端逻辑开发与目标检测模块。
+研究方向涉及目标检测优化（YOLO系列改进）、轻量化模型部署。曾在实验室参与建筑巡检平台项目，负责后端逻辑开发与目标检测模块。
 
-技术擅长：Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测核心算法；<br>
-实战经验：基于 YOLOv8 完成无人机建筑物信息汇总系统，通过模型量化将推理速度提升 30% 。
-
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="250" height="180" />
+- 技术擅长：Python/C++，熟悉 PyTorch 框架，掌握 NMS、IoU、PR 曲线等目标检测核心算法；<br>
+- 实战经验：基于YOLOv8的无人机建筑物信息汇总系统，通过迁移学习将检测精度提升至90%。
 
 💼 职场新人的成长日志
 
-当前方向：从事 AI 算法开发，聚焦工业场景的实时检测系统，正在学习 TensorRT 部署与边缘设备优化。<br>
-开源协作计划：在学习过程中，会将有价值和有意义的issue及时分享在仓库中~<br>
+当前方向：从事 AI 平台维护，使用Flask进行后端开发，封装数据库访问API、前后端交互API；<br>
+开源协作计划：使用Django开发基础AI平台（目前 20% ），敬请期待~<br>
 
-
-
-- 😄 我的学校: 江南大学/Jiangnan Unversity  
+- 🏫 我的学校: 江南大学/Jiangnan Unversity  
 - 📫 与我联系: Mail to[@Andy大大](mailto:mao19980704@163.com)
 
 <!-- About section: END -->
@@ -47,18 +44,3 @@
 <!-- THE END -->
 
 
-
-<!--
-**andyleader/andyleader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
