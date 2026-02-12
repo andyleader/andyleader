@@ -1,6 +1,6 @@
 ---
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! Here comes Andy大大~ Your humble servant is lined up to welcome you! 😎</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 你好! 欢迎来到 Andy大大~ 的空间! 😎</h3>
 
 <!-- Profile Views -->
 
@@ -9,27 +9,24 @@
 ---
 ✨ 个人简介
 
-- 🏫江南大学-计算机技术<br>
+- 🏫江南大学-计算机技术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.09.01-2025.06.30<br>
 
-📚 学习
+📚 稿子
 
 "A Self-Distillation-Based Multimodal Feature Alignment Network for Hyperspectral Image and LiDAR Classification", in IEEE Geoscience and Remote Sensing Letters.[details](https://github.com/andyleader/DFANet)
 
 
 💼 职场新人的成长日志
-
-开源协作计划：FastAPI、Django<br>
-
-- 🏫 我的学校: 江南大学/Jiangnan Unversity  
+- Flask、FastAPI、Django、
+- Agentic RAG、
 - 📫 与我联系: Mail to[@Andy大大](mailto:mao19980704@163.com)
 
 <!-- About section: END -->
 
-<!-- GitHub section -->
-
-##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 40px> 
- 
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyleader)
+💻 记录好用网站
+- 流程图：https://mermaid.ai/app/dashboard
+- 豆包：https://www.doubao.com/chat/
+- DeepSeek：https://chat.deepseek.com/
 
 <!-- THE END -->
 
